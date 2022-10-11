@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="question_1">Czy 2 + 2 = 4?</string>
+    <string name="question_2">Czy 2 + 3 = 6?</string>
+    <string name="question_3">Czy 2 + 8 = 10?</string>
+    <string name="question_4">Czy 2 * 3 = 6?</string>
+    <string name="question_5">Czy 2 + 7 * 3 = 23?</string>
+    <string name="correct_answer">Poprawna odpowiedź.</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź.</string>
+</resources>
